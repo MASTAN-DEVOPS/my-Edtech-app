@@ -46,7 +46,7 @@ genius-edtech/ │── backend/
 ### 1️⃣ Clone the Repository
 bash
 
-git clone https://github.com/MDMASTAN222/genius-edtech.git
+git clone https://github.com/MASTAN-DEVOPS/my-Edtech-app.git
 
 cd genius-edtech
 
