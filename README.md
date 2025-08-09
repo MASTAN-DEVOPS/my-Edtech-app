@@ -17,7 +17,7 @@ This project is containerized using *Docker, orchestrated with **Kubernetes (EKS
 
 ## 🏗️ Project Structure
 
-genius-edtech/ │── backend/          # API and business logic │── frontend/         # UI (React / HTML-CSS-JS) │── database/         # MySQL/PostgreSQL scripts │── dockerfiles/      # Docker build files │── k8s-manifests/    # Kubernetes YAML files │── scripts/          # Deployment scripts │── README.md         # Project documentation
+genius-edtech/ │── backend/                 # API and business logic │── frontend/           # UI (React / HTML-CSS-JS) │── database/         # MySQL/PostgreSQL scripts │── dockerfiles/   # Docker build files │── k8s-manifests/        # Kubernetes YAML files │── scripts/                # Deployment scripts │── README.md                 # Project documentation
 
 ---
 
@@ -27,7 +27,7 @@ genius-edtech/ │── backend/          # API and business logic │── fr
 - *Database:* MySQL / PostgreSQL
 - *Containerization:* Docker
 - *Orchestration:* Kubernetes (AWS EKS)
-- *CI/CD:* Jenkins / GitHub Actions
+- *CI/CD:* Jenkins 
 - *Monitoring:* Prometheus & Grafana
 - *Cloud:* AWS (VPC, EKS, RDS, S3)
 
@@ -37,6 +37,7 @@ genius-edtech/ │── backend/          # API and business logic │── fr
 
 ### 1️⃣ Clone the Repository
 bash
+
 git clone https://github.com/MDMASTAN222/genius-edtech.git
 cd genius-edtech
 
@@ -65,4 +66,4 @@ Grafana – Visualizes real-time application performance.
 👨‍💻 Author
 
 MD Mastan
-AWS & DevOps Engineer | Cloud Solutions Architect
+AWS & DevOps Engineer 
