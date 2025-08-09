@@ -1,4 +1,4 @@
-# 📚 Genius EdTech Application
+  # 📚 Genius EdTech Application
 
 Genius EdTech is a modern educational technology platform designed to deliver interactive, scalable, and efficient learning experiences.  
 This project is containerized using *Docker, orchestrated with **Kubernetes (EKS), and deployed with **CI/CD automation*.
@@ -49,6 +49,7 @@ bash
 git clone https://github.com/MDMASTAN222/genius-edtech.git
 
 cd genius-edtech
+
 
 2️⃣ Build & Run with Docker
 
