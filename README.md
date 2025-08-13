@@ -26,6 +26,18 @@ genius-edtech/ │── backend/
 # Deployment scripts │── README.md                 
 # Project documentation
 
+or
+
+genius-app/
+├── client/              # React frontend
+├── server/              # Node.js backend
+├── jenkins/             # Jenkins pipeline files
+├── k8s/                 # Kubernetes manifests
+├── Dockerfile(s)        # For client & server
+├── docker-compose.yml   # (Optional for local dev)
+└── .github/workflows/   # (If you also want GitHub Actions)
+
+
 ---
 
 
