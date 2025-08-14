@@ -9,7 +9,7 @@ pipeline {
     stages {
         stage('Clone Code') {
             steps {
-                git 'git@github.com:MASTAN-DEVOPS/my-Edtech-app.git'
+                git 'https://github.com/MASTAN-DEVOPS/my-Edtech-app.git'
             }
         }
 
